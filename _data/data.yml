@@ -7,21 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Yunli Liu
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
+    email: umh3bg@virginia.edu
+    phone: 434 400 8946 
+    citizenship: chinese
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: lily0308
     xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    github: yunliliu
+    telegram: lily liu
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -29,13 +27,10 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Chinies
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
@@ -58,72 +53,42 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MCS in Computer Science
+      university: University of Viginia
+      time: 2021-2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Coursework: ML in image analysis, Human-Computer Interaction, Geometry of Data, Machine Learning, Software Analysis, and Application
+          - GPA: 3.74/4.00
           - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BS in Computer Science
+      university: Shanghai Maritime University
+      time: 2017-2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
+        Coursework: Python, C++, Data Structure, Machine Learning, Imaging Processing, and communication
+          - GPA: 3.54/4.00(Excellent graduation thesis award)
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Ultimate AWS Certified Solutions Architect Associate 2021
+      time: October 2021- December 2021
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Learn the Serverless Fundamentals (Lambda, DynamoDB, Cognito, API Gateway) and Perform Real-World Solution Architecture on AWS
+          - Decoupled applications: SQS, SNS, Kinesis, Active MQ, secured AWS Cloud using KMS, IAM Policies & SSM
+          - Analyzed 10+ Solution Architectures (traditional & serverless) and master all the differences of Databases on AWS
+    - role: Make Package Typo squatting Attack Comprehensible for Non-expert Users
+      time: October 2021- December 2021
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Making a tool to help non-expert users to recognize the typo-squatted packages using Python
+          - Searched for packages with similar names based on the pattern and checked the metadata of the inputted package, we
+            analyzed 216, 548 packages from PyPI as of October 26, 2021, and 1077 of them are malicious package
+          - Processed PyPI packages with known source code repositories and identified packages possibly created for squatting attacks
+          - Studied the logs generated by the package installation to figure out the vital parts for the developers. leveraged dynamic
+            analysis technique to generate concise installation behavior logs
+
 projects:
-    title: Projects
+    title: Campus Residential Management System
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Build a campus dormitory management system using C# with partners to effectively save manpower and material resources, protect campus dormitory water and electricity safety, and improve school logistics management Adopting B/S architecture
+      Using SQL Server as the back-end database and HTML CSS as the front-end development tool, the system realizes the necessary functions such as system maintenance, dormitory management, student management, dormitory allocation, information query, etc. Its operation is simple, the interface is friendly, and the operation is relatively stable
     assignments:
       - title: Velocity
         link: "#hook"
@@ -145,27 +110,12 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
+research:
+    title: Prediction of the stock market on LSTM modeling
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - Constructed an (LSTM) network, logistic regression model (LR), support vector machine (SVM) regression model, and
+      - Analyzed the performance of different parameters to get the stock price prediction under the optimal parameters
+      - Created deep neural network LSTM stock price prediction that combines deep learning and sentiment mechanisms
 
 skills:
     title: Skills &amp; Proficiency
