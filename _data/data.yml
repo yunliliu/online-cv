@@ -14,12 +14,10 @@ sidebar:
     # Sidebar links
     email: umh3bg@virginia.edu
     phone: 434 400 8946 
-    citizenship: chinese
-    website: blog.webjeda.com #do not add http://
+    citizenship: china
+    website: yunliliu.github.io #do not add http://
     linkedin: lily0308
-    xing: alandoe
     github: yunliliu
-    telegram: lily liu
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -69,13 +67,13 @@ education:
           - Bullet point
 experiences:
     - role: Ultimate AWS Certified Solutions Architect Associate 2021
-      time: October 2021- December 2021
+      time: 10/2021- 12/2021
       details: |
           - Learn the Serverless Fundamentals (Lambda, DynamoDB, Cognito, API Gateway) and Perform Real-World Solution Architecture on AWS
           - Decoupled applications: SQS, SNS, Kinesis, Active MQ, secured AWS Cloud using KMS, IAM Policies & SSM
           - Analyzed 10+ Solution Architectures (traditional & serverless) and master all the differences of Databases on AWS
-    - role: Make Package Typo squatting Attack Comprehensible for Non-expert Users
-      time: October 2021- December 2021
+    - role: 
+      time: 10/2021- 12/2021
       details: |
           - Making a tool to help non-expert users to recognize the typo-squatted packages using Python
           - Searched for packages with similar names based on the pattern and checked the metadata of the inputted package, we
@@ -85,10 +83,10 @@ experiences:
             analysis technique to generate concise installation behavior logs
 
 projects:
-    title: Campus Residential Management System
-    intro: >
-      Build a campus dormitory management system using C# with partners to effectively save manpower and material resources, protect campus dormitory water and electricity safety, and improve school logistics management Adopting B/S architecture
-      Using SQL Server as the back-end database and HTML CSS as the front-end development tool, the system realizes the necessary functions such as system maintenance, dormitory management, student management, dormitory allocation, information query, etc. Its operation is simple, the interface is friendly, and the operation is relatively stable
+    - title: Campus Residential Management System
+    - intro: >
+      - Build a campus dormitory management system using C# with partners to effectively save manpower and material resources, protect campus dormitory water and electricity safety, and improve school logistics management Adopting B/S architecture
+      - Using SQL Server as the back-end database and HTML CSS as the front-end development tool, the system realizes the necessary functions such as system maintenance, dormitory management, student management, dormitory allocation, information query, etc. Its operation is simple, the interface is friendly, and the operation is relatively stable
     assignments:
       - title: Velocity
         link: "#hook"
@@ -110,7 +108,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-research:
+publications:
     title: Prediction of the stock market on LSTM modeling
     intro: |
       - Constructed an (LSTM) network, logistic regression model (LR), support vector machine (SVM) regression model, and
