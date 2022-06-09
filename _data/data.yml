@@ -46,16 +46,12 @@ education:
       university: University of Viginia
       time: 2021-2022
       details: |
-        Coursework: ML in image analysis, Human-Computer Interaction, Geometry of Data, Machine Learning, Software Analysis, and Application
           - GPA: 3.74/4.00
-          - Bullet point
     - degree: BS in Computer Science
       university: Shanghai Maritime University
       time: 2017-2021
       details: |
-        Coursework: Python, C++, Data Structure, Machine Learning, Imaging Processing, and communication
           - GPA: 3.54/4.00(Excellent graduation thesis award)
-          - Bullet point
 experiences:
     - role: Ultimate AWS Certified Solutions Architect Associate 2021
       time: 10/2021- 12/2021
