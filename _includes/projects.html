@@ -9,7 +9,7 @@
     </span>
     {{ projects.title }}
   </h2>
-
+  <h3 class="project-title">{{ projects.role }}</h3>
   {% if projects.intro %}
   <div class="intro">
       <p>{{ projects.intro }}</p>
@@ -27,8 +27,11 @@
         {% endif %}
       </span>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+
+      {% if project.details %}
+      <div class="details">
+        {{ experience.details | markdownify }}
+      </div><!--//details-->
       {% endif %}
 
     </div><!--//item-->
