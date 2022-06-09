@@ -58,9 +58,6 @@ experiences:
           - Learn the Serverless Fundamentals (Lambda, DynamoDB, Cognito, API Gateway) and Perform Real-World Solution Architecture on AWS
           - Decoupled applications: SQS, SNS, Kinesis, Active MQ, secured AWS Cloud using KMS, IAM Policies & SSM
           - Analyzed 10+ Solution Architectures (traditional & serverless) and master all the differences of Databases on AWS
-    - role: 
-      time: 
-      details: 
          
 projects:
     title: projects
@@ -98,10 +95,10 @@ projects:
 publications:
     title: Research
     intro: |
-        - Prediction of the stock market on LSTM modeling
-          - Constructed an (LSTM) network, logistic regression model (LR), support vector machine (SVM) regression model, and
-          - Analyzed the performance of different parameters to get the stock price prediction under the optimal parameters
-          - Created deep neural network LSTM stock price prediction that combines deep learning and sentiment mechanisms
+      - Prediction of the stock market on LSTM modeling
+        - Constructed an (LSTM) network, logistic regression model (LR), support vector machine (SVM) regression model, and
+        - Analyzed the performance of different parameters to get the stock price prediction under the optimal parameters
+        - Created deep neural network LSTM stock price prediction that combines deep learning and sentiment mechanisms
 
 skills:
     title: Skills &amp; Proficiency
