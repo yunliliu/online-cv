@@ -21,7 +21,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /files/resume.pdf
+    pdf: /assets/Files/resume.pdf
 
     languages:
       - idiom: Chinies
@@ -75,8 +75,10 @@ projects:
 
       - title: Handwritten Calligraphy Font Recognition System
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
+        tagline: |
+            - Built a full-stack web app to allow users to recognize their handwriting and generate the user’s handwriting font library Using HTML
+            - Iterated a platform for Identification, collaborating with a group of 2 engineers to generate letter manuscript’s function using Java and SQL Server
+            - Tested software for bugs and operating speed, fixing bugs, and documenting the process to increase efficiency by 20%
       - title: Multi-threaded File Transfer System
         link: "#"
         tagline: "Optimized and implemented Multifile concurrent transfer system increased uploading files speed by nearly 100 times
