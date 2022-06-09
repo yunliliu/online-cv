@@ -96,10 +96,10 @@ projects:
 publications:
     title: Research
     intro: |
-      - Prediction of the stock market on LSTM modeling
-        - Constructed an (LSTM) network, logistic regression model (LR), support vector machine (SVM) regression model, and
-        - Analyzed the performance of different parameters to get the stock price prediction under the optimal parameters
-        - Created deep neural network LSTM stock price prediction that combines deep learning and sentiment mechanisms
+        - Prediction of the stock market on LSTM modeling
+          - Constructed an (LSTM) network, logistic regression model (LR), support vector machine (SVM) regression model, and
+          - Analyzed the performance of different parameters to get the stock price prediction under the optimal parameters
+          - Created deep neural network LSTM stock price prediction that combines deep learning and sentiment mechanisms
 
 skills:
     title: Skills &amp; Proficiency
