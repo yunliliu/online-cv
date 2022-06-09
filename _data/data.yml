@@ -61,7 +61,6 @@ experiences:
          
 projects:
     title: projects
-    intro: 
     assignments:
       - title: Make Package Typo squatting Attack Comprehensible for Non-expert Users
         link: "#hook"
