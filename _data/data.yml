@@ -21,7 +21,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /assets/Files/resume.pdf
+    pdf: /online-cv/assets/Files/resume.pdf
 
     languages:
       - idiom: Chinies
