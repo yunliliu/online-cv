@@ -64,9 +64,7 @@ experiences:
          
 projects:
     title: projects
-    intro: >
-      Build a campus dormitory management system using C# with partners to effectively save manpower and material resources, protect campus dormitory water and electricity safety, and improve school logistics management Adopting B/S architecture
-       Using SQL Server as the back-end database and HTML CSS as the front-end development tool, the system realizes the necessary functions such as system maintenance, dormitory management, student management, dormitory allocation, information query, etc. Its operation is simple, the interface is friendly, and the operation is relatively stable
+    intro: 
     assignments:
       - title: Make Package Typo squatting Attack Comprehensible for Non-expert Users
         link: "#hook"
