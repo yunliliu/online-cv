@@ -21,7 +21,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: yunliliu/online-cv/assets/Files/resume.pdf
+    pdf: assets/Files/resume.pdf
 
     languages:
       - idiom: Chinies
@@ -40,7 +40,7 @@ sidebar:
       - item: Cooking
         link:
       
-      - item: photograpghy
+      - item: Photograpghy
         link:
 
 education:
